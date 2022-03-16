@@ -13,4 +13,4 @@
 抖音账户方面：用户的抖音账户id、粉丝偏向、有无违规、星图状态、直播权限、橱窗状态\
 
 用户首先需要注册花旗相关账户，并提供花旗银行卡账号，并将上述信息输入后，将该信息通过区块链的方式来进行上传加密，并通过算法计算贷款额度、利率等信息，用户在确定提交贷款申请后，按照额度发放贷款。（这一切建立于花旗api上）\
-花旗api：https://sandbox.developerhub.citi.com/us/home\
+花旗api：https://sandbox.developerhub.citi.com/us/home
